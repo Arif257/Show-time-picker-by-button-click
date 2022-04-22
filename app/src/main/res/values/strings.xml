@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimePicker</string>
+    <string name="button_text">show text</string>
+
+</resources>
